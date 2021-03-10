@@ -10,3 +10,4 @@ Comments applied to styles.css.
 
 screenshot of landing page as follows (./assets/images/screenshot.jpg)
 
+link to deployed landing page (https://normksb.github.io/Horiseon-Website/)
